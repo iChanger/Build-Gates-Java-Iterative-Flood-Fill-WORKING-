@@ -1,0 +1,2 @@
+# Build-Gates-Java-Iterative-Flood-Fill-WORKING-
+This is the WORKING version of Build Gates that you want to use. The recursive flood-fill was just a practice and a model. Ideally, you'd want to use iterative flood-fill over recursive flood-fill because it saves tons of memory, which is very limited in USACO Contests. Use this as a model instead, which is heavily modeled off of Nick Wu's solution. However, I added explanations for each line of code so it's actually understandable.
